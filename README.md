@@ -10,6 +10,7 @@ If it doesn't work, clone git repository and build plugin manually:
 	mvn package
 	bin/plugin --url file:///your-path/elasticsearch-river-csv/target/releases/elasticsearch-river-csv-2.0.0.zip --install river-csv
 
+
     -------------------------------------
     | CSV Plugin | ElasticSearch        |
     -------------------------------------
